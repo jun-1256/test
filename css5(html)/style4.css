@@ -1,0 +1,19 @@
+div{
+    width:50px;
+    height:50px;
+}
+
+.box_1{
+       background-color:skyblue;
+}
+
+.box_2{
+       background-color:red;
+       position:relative;
+       top:100px;
+       left:100px;
+}
+
+.box_3{
+       background-color:green;
+}
